@@ -1,4 +1,4 @@
-# Lab-2---Hyperlinks
+# Lab 2 - Hyperlinks README
 <body>
 <p> 1. At least 3 valid and complete HTML pages </p>
 <p> 2. At least 3 working internal hyperlinks connecting all of the pages </p>
